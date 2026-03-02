@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ejercicio7 {
      public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
+        Scanner (entrada) = new Scanner(System.in);
         
         System.out.println("Seleccione el electrodoméstico:");
         System.out.println("1. Nevera ($1,200,000)");
