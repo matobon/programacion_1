@@ -29,7 +29,14 @@ public class Ejercicio412segun {
                 System.out.println("Opcion no valida ");
                 break;
         }
-
+        /* 
+        switch(seleccion){
+            case 1 -> System.out.println("La suma es: " + (num1 + num2));
+            case 2 -> System.out.println("La multiplicacion es: " + (num1 * num2));
+            case 3 -> System.out.println("La division es: " + (num1 / num2));
+            default -> System.out.println("Opcion no valida ");
+        }
+        */
         sc.close();
 
     }
