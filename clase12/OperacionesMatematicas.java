@@ -1,5 +1,3 @@
-package clase12;
-
 public class OperacionesMatematicas {
     //Atributos
     private int a;
@@ -32,7 +30,7 @@ public class OperacionesMatematicas {
         if(b == 0){
             total = 0.0;
         }else{
-            total = a / b;
+            total = (double)a / (double)b;
         } 
         return total;
     }
